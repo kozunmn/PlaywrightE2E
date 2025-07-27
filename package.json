@@ -1,0 +1,21 @@
+{
+  "name": "playwright-e2e-page-object-model",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozunmn/PlaywrightE2E.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozunmn/PlaywrightE2E/issues"
+  },
+  "homepage": "https://github.com/kozunmn/PlaywrightE2E#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "1.54.1",
+    "@types/node": "24.1.0"
+  }
+}
